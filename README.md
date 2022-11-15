@@ -9,7 +9,7 @@ Javascript, Scss, HTML.
 
 # Description
 
-This is one of the project that I did at the beginning of my a part of Nology bootcamp. I have used used Javascript and have also written tests  for my functions. 
+This project takes english string as an input and converts it into morse-code output and vice-versa. This is one of the project that I did at the beginning of my Nology bootcamp. I have used used Javascript and have also written tests  for my functions. 
 
 # tests
 
